@@ -3,7 +3,7 @@ from telethon import events, Button
 from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, CMD_HNDLR as hl
 
 
-HELP_STRING = f"𝗗𝗘𝗔𝗗 𝗫 𝗦𝗣𝗔𝗠 𝗛𝗘𝗟𝗣 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Saif_Dictator**"
+HELP_STRING = f"𝐃𝐀𝐑𝐊 𝐗 𝐅𝐈𝐑𝐄 𝗛𝗘𝗟𝗣 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Saif_Dictator**"
 
 HELP_BUTTON = [
     [
@@ -12,11 +12,11 @@ HELP_BUTTON = [
     ],
     [
       Button.inline(" 𝐄xᴛʀᴀ ", data="extra"),
-      Button.url("𝐎𝚆𝙽𝙴𝚁 ", "https://t.me/Saif_Dictator")
+      Button.url("𝐎𝚆𝙽𝙴𝚁 ", "https://t.me/llSANATANI_XDII")
     ],
     [
-      Button.url(" 𝐂ʜᴀɴɴᴇʟ ", "https://t.me/Dead_SupportChat"),
-      Button.url("𝐒ᴜᴘᴘᴏʀᴛ ", "https://t.me/SAIFHELPGC")
+      Button.url(" 𝐃ᴇᴠᴇʟᴏᴘᴇʀ ", "https://t.me/STRIKE_OX"),
+      Button.url("𝐒ᴜᴘᴘᴏʀᴛ ", "https://t.me/+Q7AVd4R71T00YTc9")
     ]
   ]
 
@@ -62,7 +62,7 @@ extra_msg = f"""
   2) {hl}leave : Type in the Group bot will auto leave that group
 
 
-**𝗗𝗘𝗔𝗗 𝗫 𝗦𝗣𝗔𝗠  **
+** 𝐃𝐚𝐫𝐤 𝐗 𝐒𝐩𝐚𝐦 **
 """
 
                  
