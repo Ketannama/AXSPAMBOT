@@ -5,7 +5,7 @@
 <p align="center"><a href="https://t.me/Saif_Dictator"><img src="https://telegra.ph/file/42398ed35462dc506af19.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using this op Dead spam bot. That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using this op sanatani spam bot. That is the greatest pleasure we have !
 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
