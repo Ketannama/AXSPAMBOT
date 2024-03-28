@@ -37,7 +37,7 @@ async def start(event):
         bot_id = AltBot.id
         TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})​**\n━━━━━━━━━━━━━━━━━━━\n\n"
         TEXT += f"» **my developer : [sanatani](https://t.me/+6zxsO6dEG0owNTg1)**\n\n"
-        TEXT += f"» **ᴅᴇᴀᴅ ᴠᴇʀsɪᴏɴ :** `M3.3`\n"
+        TEXT += f"» **sanatani version :** `M3.3`\n"
         TEXT += f"» **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `3.11.3`\n"
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{__version__}`\n━━━━━━━━━━━━━━━━━"
         await event.client.send_file(
